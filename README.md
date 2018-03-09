@@ -1,2 +1,0 @@
-# Nightwing
-Bid bot
